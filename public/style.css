@@ -1,0 +1,265 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.ph{
+  background-color: whitesmoke;
+  height: 70px;
+  width: 1349px;
+  position: fixed;
+}
+.layout{
+    margin-left: 40px;
+    display: inline-flex;
+    margin-top: 10px;
+ }
+.layout select{
+    width: 250px;
+    height: 45px;
+    border: black solid 2.5px;
+    border-left: white;
+    margin-left: -3.5px;
+    
+}
+.layout a{
+    font-size: 2em;
+    text-align: center;
+    color: black;
+    margin-left: 30px;
+}
+.layout input{
+    width: 600px;
+    height: 38px;  
+    border-right: white;
+    border:black solid 2.5px ;
+}
+
+.img{
+    margin-bottom: -17.8px;
+    margin-left: -5px;
+    border: solid ;
+}
+.layout button{
+    margin-left:30px ;
+    border-radius:100px;
+    padding: 10px;
+    padding-right:25px;
+    padding-left: 25px;
+    border:  solid;
+     background-color: white;
+     font-size: 1em;
+     border-left:7px solid rgb(255, 189, 6);
+     border-right:7px solid rgb(0, 119, 255);
+     border-top:7px solid  deepskyblue;
+     border-bottom:7px solid  rgb(255, 105, 218);
+}
+
+.MS{
+    margin-bottom: -17.8px;
+    border: black solid 2.5px;
+    margin-left: -2.9px;
+    border-right: white;
+}
+.MT{
+margin-top: 70px;
+}
+.MT select{
+    font-size: 0.9em;
+    font-weight: bold;
+    border: none ;
+    opacity: o.9; 
+    font-size: 1.4em;
+  }
+  .MT a{
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+  }
+  .main{
+    background-color: whitesmoke;
+    margin-top: 85px;
+    width: 1245px;
+    height: 400px;
+    margin-left:50px ;
+
+  }
+  .main b{ 
+    margin-left: 30px;
+    font-size: 1.5em;
+    
+  }
+  .main a{
+    color: black;
+    margin-left: 1000px;
+    margin-top: -20px;
+    font-size: 1.5em;
+  }
+  .ma{
+    margin-left: 60px;
+  }
+  .ma b{
+    margin-left: 30px;
+    font-size: 1.5em;
+  }
+  .ma a{
+    color: black;
+    margin-left: 900px;
+    font-size: 1.5em;
+  }
+  .km{
+      display: inline-flex;
+  }
+  .smt img{
+    margin-top:10px;
+    height: 185px;
+   width: 150px;
+}
+
+.smt {
+   background-color: white;
+   margin-top:10px;
+    margin-left:45px;
+  height:300px;
+  width: 260px;  
+  text-align: center;
+  border: rgb(233, 223, 223) solid;
+  border-style:ridge;
+  border-radius: 10px;
+
+  }
+  .smt b{
+      font-size: 1em;
+     color: black;
+     opacity: 0.5;
+      margin-left: 195px;
+      
+  }
+  .smt span{
+      font-size: 1.5em;
+      font-weight: bold;
+  }
+  .mn{
+    margin-top: 25px;
+    margin-left: -35px;
+    }
+    .SK{
+      font-size: 11px;
+      margin-left: -240px;
+      background-color : rgb(226, 226, 15);
+      margin-top:30px;
+      border: none;
+      padding: 4px;
+    }
+   
+.nn{
+  margin-top: 70px;
+  margin-left: -35px;
+  }
+  .KK{
+      font-size: 11px;
+      margin-left: -240px;
+      background-color : rgb(226, 226, 15);
+      margin-top:100px;
+      border: none;
+      padding: 4px;
+  }
+  .NA{
+      background-color: white;
+      margin-top: 55px;
+       margin-left:100px;
+       height:300px;
+       width: 260px; 
+     text-align: center;
+     border: rgb(233, 223, 223) solid;
+    border-style:ridge;
+    border-radius: 10px;
+  }
+  .tm{
+    display: inline-flex;
+  }
+  .NA img{
+      margin-top: 10px;
+   }
+   .NA b{
+     font-size: 1em;
+    color: black;
+    opacity: 0.5;
+     margin-left: 170px;
+     
+  }
+  .NA span{
+     font-size: 1.5em;
+     font-weight: bold;
+  }
+  .Pt button{
+      border: solid;
+      margin-left:590px ;
+      margin-top: 55px;
+      
+      border-radius: 5px;
+  }
+  .PO{
+    margin-top: 70px;
+    background-color: whitesmoke;
+    height: 205px;
+    width: 1348.5px;
+}
+.PO img{
+    margin-left: 60px;
+    margin-top: -150px;
+   
+} 
+.PO h1{
+margin-left: 600px;
+
+}
+.PO p{
+    margin-left: 600px;
+}
+.PO h2{
+    margin-left: 1050px;
+    margin-top: -150px;
+}
+.vv{
+    margin-left: 956px;
+    margin-top: 50px;
+}
+.mm{
+    margin-left:1110px;
+    margin-top: -17.5px;
+}
+.lm  a{
+    text-decoration: none;
+    color: black;
+    opacity: 0.5;
+}
+.uz{
+    background-color: rgb(233, 233, 233);
+    height: 180px;
+}
+.lm ul {
+    list-style: none;
+    
+}
+.Ljcld{
+    font-size: 1.5em;
+
+}
+.re{
+    margin-top: 20px;
+}
+.mv{
+    margin-left: 110px;
+ margin-top: -53px ;
+}
+.abce{
+    background: #002f34;
+    height: 60px;
+    margin-top: -15px;
+    color:white;
+}
+.fRN33{
+  margin-left: 1010px;
+  margin-top: -10px;
+}
+
